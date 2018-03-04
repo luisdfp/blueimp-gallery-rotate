@@ -1,4 +1,4 @@
-# blueimp Gallery
+# blueimp Gallery Image Rotate
 
 - [Description](#description)
 - [Setup](#setup)
