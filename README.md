@@ -9,7 +9,7 @@ This is a plugin for [blueimp Gallery](https://github.com/blueimp/Gallery). It a
 
 ## Setup
 
-1. You must include [blueimp Gallery](https://github.com/blueimp/Gallery) as shown in the instructions.
+1. Include [blueimp Gallery](https://github.com/blueimp/Gallery) following the instructions in its repository.
 
 2. Copy the **css**, **img** and **js** files provided by this plugin and add them to your folders.
 
